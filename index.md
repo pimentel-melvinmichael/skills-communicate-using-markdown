@@ -8,3 +8,9 @@
 
 # Image Demo
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+# Code Block Demo
+``` python
+num1 = 1
+```
